@@ -33,6 +33,8 @@ Pseudocode:
 - Calculate the area (A) by multiplying W by L
 - Print A
 
+![alt text](flowcharts/exercise2.png)
+
 ## Exercise 3
 
 Write an algorithm and draw a flowchart that will read three numbers and prints the value of the largest number.
