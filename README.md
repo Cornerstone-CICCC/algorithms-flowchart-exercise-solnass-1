@@ -21,6 +21,8 @@ Pseudocode:
 - Calculate the length in cm (LCM) by multiplying LFT by 30
 - Print length in cm (LCM)
 
+![alt text](flowcharts/exercise1.png)
+
 ## Exercise 2
 
 Write an algorithm and draw a flowchart that will read the two sides of a rectangle and calculate its area.
